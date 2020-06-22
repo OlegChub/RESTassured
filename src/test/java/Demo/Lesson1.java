@@ -16,6 +16,7 @@ public class Lesson1 {
         System.out.println(response.getBody().asString());
         System.out.println(response.getSessionId());
         System.out.println(response.getHeader("content-type"));
+
         Assert.assertEquals(response.getStatusCode(), 200);
     }
 
