@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "name": "Oleg",
+      "age": 33,
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "name": "Vlad",
+      "age": 24,
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "name": "Lera",
+      "age": 29,
+      "subjectId": 1,
+      "id": 3
+    },
+    {
+      "name": "Lena",
+      "age": 38,
+      "subjectId": 2,
+      "id": 4
+    },
+    {
+      "name": "John",
+      "age": 21,
+      "subjectId": 1,
+      "id": 5
+    },
+    {
+      "name": "Don",
+      "age": 27,
+      "subjectId": 1,
+      "id": 6
+    },
+    {
+      "name": "George",
+      "age": 25,
+      "subjectId": 2,
+      "id": 7
+    }
+  ],
+  "subjects": [
+    {
+      "name": "Automation",
+      "id": 1
+    },
+    {
+      "name": "DevOps",
+      "id": 2
+    }
+  ]
+}
